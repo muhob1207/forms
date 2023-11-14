@@ -7,7 +7,9 @@
 3)You should be inside the directory which has docker-compose.yml inside it. Also make sure that Docker is active. Run $ docker-compose up
 
 4)This will start:
+
 -A MongoDB express container on port 8080
+
 -A flask app container on port 5001
 
 You can access MongoDB by navigating to locahost:8080 in your browser. You will be asked for login and password:
